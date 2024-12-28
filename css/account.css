@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f8f1e7;
+}
+#AccMP{
+    width: 100%;
+    /* height: 100vh; */
+    padding: 80px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(80, 35, 20);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img[alt="R_P"]{
+    display: block;
+    margin: auto;
+    width: 280px;
+}
+#Logbtn{
+    display: block;
+    height: 45px;
+    width: 230px;
+    border-radius: 20px;
+    border: none;
+    margin: 25px auto;
+    padding: 11px 16px;
+    color: white;
+    background-color: #d62300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
